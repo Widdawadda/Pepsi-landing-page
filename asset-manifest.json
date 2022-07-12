@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.eeff898f.css",
-    "main.js": "/static/js/main.e4db93e5.js",
-    "static/media/pepsi003.png": "/static/media/pepsi003.dca2ee630e19bfb05e0b.png",
-    "static/media/pepsi002.png": "/static/media/pepsi002.4721b27831ce6a551c42.png",
-    "static/media/pepsi001.png": "/static/media/pepsi001.f85675c6321cfae2e0b6.png",
-    "index.html": "/index.html",
-    "main.eeff898f.css.map": "/static/css/main.eeff898f.css.map",
-    "main.e4db93e5.js.map": "/static/js/main.e4db93e5.js.map"
+    "main.css": "/Pepsi-landing-page/static/css/main.eeff898f.css",
+    "main.js": "/Pepsi-landing-page/static/js/main.fcdfe898.js",
+    "static/media/pepsi003.png": "/Pepsi-landing-page/static/media/pepsi003.dca2ee630e19bfb05e0b.png",
+    "static/media/pepsi002.png": "/Pepsi-landing-page/static/media/pepsi002.4721b27831ce6a551c42.png",
+    "static/media/pepsi001.png": "/Pepsi-landing-page/static/media/pepsi001.f85675c6321cfae2e0b6.png",
+    "index.html": "/Pepsi-landing-page/index.html",
+    "main.eeff898f.css.map": "/Pepsi-landing-page/static/css/main.eeff898f.css.map",
+    "main.fcdfe898.js.map": "/Pepsi-landing-page/static/js/main.fcdfe898.js.map"
   },
   "entrypoints": [
     "static/css/main.eeff898f.css",
-    "static/js/main.e4db93e5.js"
+    "static/js/main.fcdfe898.js"
   ]
 }
